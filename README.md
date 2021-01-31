@@ -1,6 +1,6 @@
 # OS-based Cyber Attacks
 
-Various OS-based cyber attacks on different mechanisms, including ROP, SEH and DEP.
+Various OS-based cyber attacks on different mechanisms, including ROP, SEH and DEP and exploitation of their vulnerabilities.
 
 Made as part of Software Security course for academic purposes only.
 
